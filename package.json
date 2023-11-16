@@ -17,5 +17,10 @@
         "path": "./themes/Bestkpnr-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bstkpnr/themes"
+
   }
 }
